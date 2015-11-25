@@ -1,0 +1,1300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"contai",
+				"container-fluid"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"car",
+				"carousel-homepage"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"conso",
+				"console.info(message);"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"mason",
+				"masonry_json"
+			],
+			[
+				"ul",
+				"ul	<ul>"
+			],
+			[
+				"carou",
+				"carousel-inner"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"blco",
+				"block-margin"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"the",
+				"the_query"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"tex-",
+				"text-indent"
+			],
+			[
+				"title",
+				"title	Attr"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"log",
+				"console.log('$0');"
+			],
+			[
+				"getElem",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"meida",
+				"media landscape	landscape"
+			],
+			[
+				"media",
+				"media query ipad	ipad"
+			],
+			[
+				"me",
+				"media query desktop/laptop	desktop & laptop"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"ti",
+				"title	Attr"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"re",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"abbr",
+				"abbr	Tag"
+			],
+			[
+				"read",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"rb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"cor-li",
+				"cor-cinza-claro"
+			],
+			[
+				"nav",
+				"nav	nav - Placeholder"
+			],
+			[
+				"implementa",
+				"implementacao"
+			],
+			[
+				"identif",
+				"identificador"
+			],
+			[
+				"cor-lin",
+				"cor-linha-realce"
+			],
+			[
+				"linha",
+				"linha-realce"
+			],
+			[
+				"ng-s",
+				"ng-show	AngularJS"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"input",
+				"input	input - checkbox"
+			],
+			[
+				"la",
+				"label	<label>"
+			],
+			[
+				"game",
+				"GameObject"
+			],
+			[
+				"dat",
+				"dataActiva"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"form",
+				"form	Tag"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"modu",
+				"module	JS module pattern"
+			],
+			[
+				"moduel",
+				"module.Module(id, parent);"
+			],
+			[
+				"cv_",
+				"cv_esq"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"cantos",
+				"cantos_titulo"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"lorem",
+				"lorem	lorem - One sentence"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"file",
+				"fileContents"
+			],
+			[
+				"cosn",
+				"console"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"esfe",
+				"esferaMaterial"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fonta",
+				"font-family"
+			],
+			[
+				"con",
+				"contadorFPS"
+			],
+			[
+				"Bab",
+				"BABYLON"
+			],
+			[
+				"new",
+				"newMeshes"
+			],
+			[
+				"arrow",
+				"arrowsFired"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"near",
+				"nearPlayer"
+			],
+			[
+				"nea",
+				"nearPlayer"
+			],
+			[
+				"ente",
+				"enteringArena"
+			],
+			[
+				"moving",
+				"movingToPlayer"
+			],
+			[
+				"dis",
+				"distanceToTarget"
+			],
+			[
+				"de",
+				"deltaTime"
+			],
+			[
+				"Look",
+				"LookInDirection"
+			],
+			[
+				"entry",
+				"entryPoints"
+			],
+			[
+				"spaw",
+				"SpawnPoints"
+			],
+			[
+				"en",
+				"enemyPrefab"
+			],
+			[
+				"spa",
+				"SpawnPoints"
+			],
+			[
+				"sp",
+				"spawnPointsCowboys"
+			],
+			[
+				"ge",
+				"GetComponent"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"spawn",
+				"spawnPointsCowboys"
+			],
+			[
+				"g",
+				"GetComponent"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"ene",
+				"enemiesCowboysSpawnpoints"
+			],
+			[
+				"des",
+				"destroyEnemy"
+			],
+			[
+				"Game",
+				"GameManager"
+			],
+			[
+				"ad",
+				"AddRelativeForce"
+			],
+			[
+				"thu",
+				"thrusterLeft"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"th",
+				"thrusterLeft"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set ",
+				"Set Syntax: HTML"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"comment",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"terminal",
+				"TerminalProjectFolder: open terminal in project folder"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"teri",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jj",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"wordpres",
+				"WordPress: Toggle Debug"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"init",
+				"Initializr: New Project"
+			],
+			[
+				"jquer",
+				"Snippet: Google AJAX Libraries: jQuery"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"cha",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"boil",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"set s",
+				"Set Syntax: HTML5"
+			],
+			[
+				"ilist",
+				"Snippet: lorem - HTML Kitchen sink"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"boiler	",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package br",
+				"Package Control: Enable Package"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package lista",
+				"Package Control: List Packages"
+			],
+			[
+				"paca",
+				"Package Control: Discover Packages"
+			],
+			[
+				"co",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"white",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"permute",
+				"Permute Lines: Unique"
+			],
+			[
+				"line",
+				"Permute Lines: Unique"
+			],
+			[
+				"encod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"comm	",
+				"Toggle Comment"
+			],
+			[
+				"commen",
+				"Toggle Block Comment"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Downloads/A ver/Cooking/Gordon Ramsay's Ultimate Cookery Course/index.txt",
+		"/C/xampp/htdocs/estatico/index.html",
+		"/C/xampp/htdocs/estatico/sobre/index.html",
+		"/C/xampp/htdocs/estatico/assets/src/scss/_layout.scss",
+		"/C/xampp/htdocs/estatico/contactos/index.html",
+		"/C/xampp/htdocs/estatico/portefolio/index.html",
+		"/C/xampp/htdocs/estatico/servicos/index.html",
+		"/C/xampp/htdocs/estatico/assets/src/scss/gera.scss",
+		"/C/xampp/htdocs/estatico/assets/src/scss/_portefolio.scss",
+		"/C/xampp/htdocs/estatico/assets/src/scss/_typography.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/scss/_layout.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/header.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/templates/template-homepage.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/single-portefolio.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/single.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/functions.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/content-page.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/js/gera.js",
+		"/C/xampp/htdocs/estatico/readme.txt",
+		"/C/xampp/htdocs/estatico/Gruntfile.js",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/page.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/estatico/index.html",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/footer.php",
+		"/D/Andre/Criacoes/Repositorios/site-do-sergio-e-da-vanessa-em-jekyll/readme.md",
+		"/D/Andre/Criacoes/Repositorios/site-do-sergio-e-da-vanessa-em-jekyll/readme.dm",
+		"/D/Andre/Criacoes/Repositorios/site-do-sergio-e-da-vanessa-em-jekyll/contributors.txt",
+		"/C/Users/André Guedes/Desktop/PortableJekyll-master/setpath.cmd",
+		"/C/Users/André Guedes/Desktop/PortableJekyll-master/README.md",
+		"/C/BlueByte/The Settlers IV/Config/GameSettings.cfg",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/scss/_portefolio.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/package.json",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/Gruntfile.js",
+		"/C/xampp/htdocs/wp-includes/functions.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/content.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/inc/template-tags.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/scss/_typography.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/scss/_external.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/scss/_variables.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/scss/gera.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/build/js/gera.min.js",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/js/analytics.js",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/build/js/gera.min.js.map",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/content-search.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/content-link.php",
+		"/C/Users/André Guedes/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/André Guedes/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/André Guedes/AppData/Roaming/Sublime Text 3/Packages/User/goto_documentation.sublime-settings",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/image.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/comments.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/archive-portefolio.php",
+		"/C/xampp/htdocs/wp-admin/css/colors/_variables.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/languages/twentyfifteen.pot",
+		"/C/xampp/htdocs/wp-includes/functions.wp-scripts.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/index.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/404.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/content-none.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/archive.php",
+		"/C/Users/André Guedes/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/scss/_navigation.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/assets/src/scss/_dev.scss",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/style.css",
+		"/C/Users/André Guedes/Documents/The Witcher 3/user.settings",
+		"/C/Games/The Witcher 3 Wild Hunt/bin/config/r4game/user_config_matrix/pc/localization.xml",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/node_modules/masonry-layout/dist/masonry.pkgd.min.js",
+		"/C/xampp/htdocs/wp-content/plugins/contact-form-7/admin/includes/help-tabs.php",
+		"/C/xampp/htdocs/wp-includes/post-template.php",
+		"/C/xampp/htdocs/wp-content/themes/gera-atelier/library/functions.php",
+		"/C/xampp/htdocs/wp-settings.php",
+		"/c/xampp/htdocs/wp-config.php",
+		"/C/xampp/htdocs/wp-config.php",
+		"/C/Users/André Guedes/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/Command Prompt.lnk",
+		"/C/wamp/www/wp-content/themes/gera-atelier/functions.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/assets/src/scss/_navigation.scss",
+		"/C/wamp/www/wp-content/themes/gera-atelier/assets/src/scss/_portefolio.scss",
+		"/C/wamp/www/wp-content/themes/gera-atelier/library/custom-content-cpt-portefolio.php",
+		"/C/wamp/www/.gitignore",
+		"/C/wamp/www/wp-content/themes/gera-atelier/Gruntfile.js",
+		"/C/wamp/www/wp-content/themes/gera-atelier/package.json",
+		"/C/wamp/www/wp-content/themes/gera-atelier/assets/src/scss/gera.scss",
+		"/C/wamp/www/wp-content/themes/gera-atelier/style.css",
+		"/C/wamp/www/wp-content/themes/gera-atelier/~/.grunt-init/gruntfile/README.md",
+		"/C/wamp/www/wp-content/themes/gera-atelier/~/.grunt-init/gruntfile/root/Gruntfile.js",
+		"/C/wamp/www/wp-content/themes/gera-atelier/~/.grunt-init/gruntfile/template.js",
+		"/C/wamp/www/wp-content/themes/gera-atelier/assets/src/scss/_general_styles.scss",
+		"/C/wamp/www/wp-content/themes/gera-atelier/assets/src/scss/_navegacao.scss",
+		"/C/wamp/www/wp-content/themes/gera-atelier/assets/src/scss/_geral.scss",
+		"/C/wamp/www/wp-content/themes/gera-atelier/assets/src/js/gera.js",
+		"/C/wamp/www/wp-content/themes/gera-atelier/assets/src/scss/gera.scs",
+		"/C/wamp/www/wp-content/themes/gera-atelier/index.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/inc/template-tags.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/inc/customizer.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/inc/custom-header.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/inc/back-compat.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/image.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/header.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/footer.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/content.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/content-search.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/content-page.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/content-none.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/content-link.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/comments.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/author-bio.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/archive.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/404.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/page.php",
+		"/C/wamp/www/readme.md",
+		"/C/wamp/www/wp-content/themes/gera-atelier/readme.txt",
+		"/C/wamp/www/wp-content/themes/gera-atelier/single.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/search.php",
+		"/C/wamp/www/wp-content/themes/gera-atelier/sidebar.php",
+		"/D/Andre/Criacoes/Repositorios/Site-Wordpress-do-Sergio-e-da-Vanessa/readme.md",
+		"/D/Andre/Criacoes/Repositorios/Site-Wordpress-do-Sergio-e-da-Vanessa/.git/config",
+		"/D/Andre/Criacoes/Repositorios/Site-Wordpress-do-Sergio-e-da-Vanessa/contributors.txt",
+		"/D/Andre/Criacoes/Repositorios/site-do-sergio-e-da-vanessa/gera_atelier/index.html",
+		"/D/Andre/Criacoes/Repositorios/site-do-sergio-e-da-vanessa/gera_atelier/humans.txt",
+		"/D/Andre/Criacoes/Repositorios/site-do-sergio-e-da-vanessa/index.html",
+		"/C/Users/André Guedes/AppData/LocalLow/Ludeon Studios/RimWorld/Config/ModsConfig.xml",
+		"/C/Users/André Guedes/AppData/Local/Temp/7zO591A.tmp/info.txt",
+		"/C/Users/André Guedes/Desktop/ModsConfig.xml",
+		"/C/Users/André Guedes/AppData/Local/Temp/7zOCB2F.tmp/ModsConfig.xml",
+		"/C/Users/André Guedes/Desktop/RimWorld/Mods/LessIncidentTrolling/Defs/IncidentDefs/LessOftenBlight.xml",
+		"/D/Downloads/A ver/Grim Fandango Remastered - PC - GOG/Grim Fandango Remastered (GOG) - Info.txt",
+		"/D/Andre/Criacoes/Sites/andreguedes.pt/wp-content/themes/andreguedes_v3/style.less",
+		"/C/Users/André Guedes/Desktop/Observador/thecode.html",
+		"/C/Users/André Guedes/Downloads/f.txt",
+		"/D/Andre/Criacoes/Repositorios/site-do-sergio-e-da-vanessa/estilos.less",
+		"/D/Andre/Criacoes/Repositorios/site-do-sergio-e-da-vanessa/README.md"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 166.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\wp-content\\themes\\gera-atelier",
+			"C:\\xampp\\htdocs\\",
+			"C:\\xampp\\htdocs\\wp-content\\themes\\gera-atelier",
+			"c:\\xampp\\htdocs",
+			"C:\\wamp\\www\\wp-content\\themes\\gera-atelier",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://localhost/wp-content/uploads/2015/05/",
+			"http://localhost/wp-content/uploads/2015/",
+			".block",
+			"block ",
+			"									",
+			"sobre",
+			"Conteúdos da página acerca 'Gera Atelier'",
+			"wpadminbar",
+			".home.",
+			".home",
+			".home.",
+			".home",
+			"email",
+			"nome",
+			"class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\"",
+			"Sobre",
+			"<!--",
+			"Contactos",
+			"Página Inicial",
+			"Conteúdos da &#8220;Página Inicial",
+			"&#8220;",
+			"skip-main",
+			"href=\"/",
+			">\n",
+			"href=\"/",
+			"http://localhost/",
+			"						",
+			"div",
+			"&#8221;",
+			"http://localhost/",
+			"footer",
+			"&",
+			"footer",
+			"navigation",
+			"post-type-archive-portefolio",
+			"header",
+			"home",
+			"navigation",
+			"	<",
+			"	",
+			"		<",
+			"		",
+			"1rem",
+			"a div",
+			"					",
+			"homepage",
+			"twentyfifteen_post_thumbnail",
+			"gera-atelier",
+			"'gera-atelier",
+			"twentyfifteen",
+			"container",
+			"flex",
+			"container",
+			"row",
+			".row",
+			"row",
+			"size_classes",
+			"max-",
+			"//",
+			"size_class",
+			"1",
+			"container-fluid",
+			"get_field",
+			"hover",
+			"carousel-example-generic",
+			"transp",
+			"carousel-example-generic",
+			"1",
+			"Posted on",
+			"body",
+			"}",
+			"active",
+			"  ",
+			"scripts",
+			"  ",
+			"mjson",
+			"slugs",
+			"<?php echo ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"div",
+			":hover",
+			"  ",
+			" ",
+			"  ",
+			"msnry",
+			"all",
+			"entry-footer",
+			"nav-links",
+			"Navegação",
+			"Navegação de posts",
+			"comments",
+			"twentyfifteen_comment_nav",
+			"role=\"navigation\"",
+			"navigation post-navigation",
+			"/*\n\n */",
+			"theme_",
+			"theme",
+			"&",
+			"block.",
+			"block",
+			"<!-- #post-## -->",
+			"get_permalink",
+			"</span></i></li>",
+			"nav",
+			"footer",
+			"ul",
+			"footer",
+			"<div id=\"container\">",
+			"  ",
+			"entry-header",
+			">\n",
+			"padding",
+			"Guedes",
+			"--",
+			"li",
+			"body",
+			":before",
+			"medium",
+			"size_1x2",
+			"block-margin",
+			"get_the_field",
+			"@media screen and (min-width: 87.6875em) {",
+			"item",
+			"*2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"@package WordPress\n * @subpackage Gera_Atelier\n * @since Gera Atelier 1.0\n * @author Andre Guedes\n */",
+			"@since Gera Atelier 1.0",
+			" @subpackage Gera_Atelier",
+			" * @subpackage Gera_Atelier\n * @since Gera Atelier 1.0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"footer",
+				"wp-content\\themes\\gera-atelier\\footer.php"
+			],
+			[
+				"header",
+				"wp-content\\themes\\gera-atelier\\header.php"
+			],
+			[
+				"_la",
+				"wp-content\\themes\\gera-atelier\\assets\\src\\scss\\_layout.scss"
+			],
+			[
+				"foote",
+				"wp-content\\themes\\gera-atelier\\footer.php"
+			],
+			[
+				"content-pag",
+				"wp-content\\themes\\gera-atelier\\content-page.php"
+			],
+			[
+				"single",
+				"wp-content\\themes\\gera-atelier\\single.php"
+			],
+			[
+				"funtions",
+				"wp-includes\\functions.php"
+			],
+			[
+				"content.ph",
+				"wp-content\\themes\\gera-atelier\\content.php"
+			],
+			[
+				"content-page",
+				"wp-content\\themes\\gera-atelier\\content-page.php"
+			],
+			[
+				"functions",
+				"wp-content\\themes\\gera-atelier\\functions.php"
+			],
+			[
+				"package",
+				"wp-content\\themes\\gera-atelier\\package.json"
+			],
+			[
+				"grunt",
+				"wp-content\\themes\\gera-atelier\\Gruntfile.js"
+			],
+			[
+				"grun",
+				"wp-content\\themes\\gera-atelier\\Gruntfile.js"
+			],
+			[
+				"gera.s",
+				"wp-content\\themes\\gera-atelier\\assets\\src\\scss\\gera.scss"
+			],
+			[
+				"_por",
+				"wp-content\\themes\\gera-atelier\\assets\\src\\scss\\_portefolio.scss"
+			],
+			[
+				"pack",
+				"wp-content\\themes\\gera-atelier\\package.json"
+			],
+			[
+				"_porte",
+				"wp-content\\themes\\gera-atelier\\assets\\src\\scss\\_portefolio.scss"
+			],
+			[
+				"variables",
+				"wp-content\\themes\\gera-atelier\\assets\\src\\scss\\_variables.scss"
+			],
+			[
+				".scss",
+				"wp-content\\themes\\gera-atelier\\assets\\src\\scss\\gera.scss"
+			],
+			[
+				"funciotns",
+				"wp-includes\\functions.wp-scripts.php"
+			],
+			[
+				"homepage",
+				"wp-content\\themes\\gera-atelier\\templates\\template-homepage.php"
+			],
+			[
+				"footer.ph",
+				"wp-content\\themes\\gera-atelier\\footer.php"
+			],
+			[
+				"style.",
+				"wp-content\\themes\\gera-atelier\\style.css"
+			],
+			[
+				"header.ph",
+				"wp-content\\themes\\gera-atelier\\header.php"
+			],
+			[
+				"content.php",
+				"wp-content\\themes\\gera-atelier\\content.php"
+			],
+			[
+				"wp-sett",
+				"wp-settings.php"
+			],
+			[
+				"wp-config",
+				"wp-config.php"
+			],
+			[
+				"pakc",
+				"wp-content\\themes\\gera-atelier\\package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"last_filter": "twentyfifteen_entry_meta",
+		"selected_items":
+		[
+			[
+				"twentyfifteen_entry_meta",
+				"twentyfifteen_entry_meta"
+			],
+			[
+				"sidebar",
+				"sidebar"
+			],
+			[
+				"twentyfifteen_post_thumbnail",
+				"twentyfifteen_post_thumbnail"
+			]
+		],
+		"width": 624.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 392.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
